@@ -1,0 +1,2 @@
+<?php
+// old is gold.
